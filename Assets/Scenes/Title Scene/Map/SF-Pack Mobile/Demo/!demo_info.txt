@@ -1,0 +1,1 @@
+In order to achieve better performance, it is recommended to use baked lights on mobile devices
